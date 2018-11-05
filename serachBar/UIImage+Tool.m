@@ -9,7 +9,7 @@
 #import "UIImage+Tool.h"
 
 @implementation UIImage (Tool)
-//设置颜色
+//设置颜色背景颜色
 + (UIImage *)imageWithColor:(UIColor *)color {
     CGRect rect = CGRectMake(0.0f, 0.0f, 1.0f, 1.0f);
     UIGraphicsBeginImageContext(rect.size);
