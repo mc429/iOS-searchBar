@@ -1,2 +1,3 @@
 # iOS-searchBar
 为了适应iOS11适配自定义了搜索栏
+将文件下载后将serachBar文件夹导入项目中即可使用
